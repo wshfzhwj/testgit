@@ -4,3 +4,5 @@ add new branch
 test merge
 test push
 test more file
+test reset
+
