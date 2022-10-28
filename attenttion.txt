@@ -15,8 +15,5 @@ this master branch commit
 this dev branch dev-0.3
 this master branch commit 2
 this dev branch dev-0.4
-<<<<<<< HEAD
 this dev branch dev-0.5
-=======
 this dev branch dev-0.6
->>>>>>> bcd49de (dev-0.6)
