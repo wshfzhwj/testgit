@@ -11,5 +11,8 @@ this dev branch0.1
 this dev branch dev-a
 this dev branch dev-0.2
 this master branch 
+<<<<<<< HEAD
 this master branch commit 
+=======
+>>>>>>> 95262deda25609b319c778d620e4ac1eea310850
 this dev branch dev-0.3
