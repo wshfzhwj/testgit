@@ -25,3 +25,4 @@ this dev branch dev-0.8 for commit*2
 this dev branch dev-0.9
 this dev branch dev-1.0-alpha
 this dev branch dev-1.0
+this dev branch dev-1.0-fixbug
