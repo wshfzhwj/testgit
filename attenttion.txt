@@ -27,3 +27,4 @@ this dev branch dev-1.0-alpha
 this dev branch dev-1.0
 this dev branch dev-1.0-fixbug
 this dev branch dev-1.0.1
+this dev branch dev-1.0.1-fixbug
